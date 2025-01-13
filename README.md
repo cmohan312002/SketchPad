@@ -1,7 +1,7 @@
-# Task 4 : Real-Time Collaborative Whiteboard
+# Real-Time Collaborative SketchPad
 
 ## Overview
-The Whiteboard Project aims to create a digital whiteboard application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
+The SketchPad Project aims to create a digital SketchPad application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
 
 ## Features
 - Real-time collaboration
@@ -11,7 +11,8 @@ The Whiteboard Project aims to create a digital whiteboard application that allo
 - User authentication and roles
 - Saving and loading whiteboard sessions
 - Exporting whiteboards as images or PDFs
-- Integration with other collaboration tools (e.g., Slack, Microsoft Teams)
+- User can chat with other users while collabratting
+- User can Login anonymously
 
 ## Technologies
 - Frontend: React, Next.js
