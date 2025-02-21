@@ -64,7 +64,7 @@ const Home = () => {
       <h1 className="text-5xl font-extrabold leading-tight sm:text-extra">
         SketchPad
       </h1>
-      <h3 className="text-xl sm:text-2xl">Real-time whiteboard</h3>
+      <h3 className="text-xl sm:text-2xl">Create & Join with Buddies</h3>
 
       <div className="mt-10 flex flex-col gap-2">
         <label className="self-start font-bold leading-tight">
